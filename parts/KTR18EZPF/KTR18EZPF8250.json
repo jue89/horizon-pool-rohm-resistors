@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "KTR18EZPF8250"
+    ],
+    "base": "757a90dd-0998-43fc-b546-dfa2ee964885",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "HV Chip Resistor 825 Ω 1% 0.25W 500V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "pmax": "0.25",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "825.00"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "a006f47d-e6fd-42c2-9324-46a6e87a0357",
+    "value": [
+        false,
+        "825 Ω"
+    ]
+}

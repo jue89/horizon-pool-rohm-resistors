@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "KTR18EZPF1603"
+    ],
+    "base": "757a90dd-0998-43fc-b546-dfa2ee964885",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "HV Chip Resistor 160 kΩ 1% 0.25W 500V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "pmax": "0.25",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "160000.00"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "5e21ef11-2cb3-49e9-8866-94cd36d62352",
+    "value": [
+        false,
+        "160 kΩ"
+    ]
+}

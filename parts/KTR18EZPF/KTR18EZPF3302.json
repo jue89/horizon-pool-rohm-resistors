@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "KTR18EZPF3302"
+    ],
+    "base": "757a90dd-0998-43fc-b546-dfa2ee964885",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "HV Chip Resistor 33 kΩ 1% 0.25W 500V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "pmax": "0.25",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "33000.00"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "12f085aa-c252-453f-ab42-9f58fd336fa0",
+    "value": [
+        false,
+        "33 kΩ"
+    ]
+}

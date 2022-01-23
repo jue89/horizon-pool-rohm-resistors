@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "KTR18EZPF5R10"
+    ],
+    "base": "757a90dd-0998-43fc-b546-dfa2ee964885",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "HV Chip Resistor 5.1 Ω 1% 0.25W 500V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "pmax": "0.25",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "5.10"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "71d75883-37f5-4f34-bacf-e8c8f4b79cd3",
+    "value": [
+        false,
+        "5.1 Ω"
+    ]
+}

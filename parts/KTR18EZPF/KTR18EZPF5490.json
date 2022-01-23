@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "KTR18EZPF5490"
+    ],
+    "base": "757a90dd-0998-43fc-b546-dfa2ee964885",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "HV Chip Resistor 549 Ω 1% 0.25W 500V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "pmax": "0.25",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "549.00"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "a7127899-be7b-4ad2-88f4-8a6520ba1e36",
+    "value": [
+        false,
+        "549 Ω"
+    ]
+}

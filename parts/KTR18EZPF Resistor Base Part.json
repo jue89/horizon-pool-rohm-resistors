@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "KTR18EZPF Resistor Base Part"
+    ],
+    "base": "69d9d487-801a-40ab-a821-5a7a6ee8c623",
+    "datasheet": [
+        false,
+        "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/ktr-e.pdf"
+    ],
+    "description": [
+        false,
+        "HV Chip Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Rohm"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "757a90dd-0998-43fc-b546-dfa2ee964885",
+    "value": [
+        true,
+        "base 1206 resistor"
+    ]
+}
